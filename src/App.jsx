@@ -5,7 +5,8 @@ function App() {
   return (
     <div className="landing-page-container">
       <div className="background-image"></div>
-      <h1>Welcome to My Digital Portfolio!</h1>
+      <div className="content"></div>
+       <h1>Welcome to My Digital Portfolio!</h1>
       <div className = 'divider'></div>
       <button className="get-started-button">
             Get Started
