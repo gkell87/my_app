@@ -3,7 +3,6 @@ import About from './About';
 
 function App() {
   return (
-    <div className="app-container">
       <div className={`landing-page`}>
         <div className="content">
          <div className="landing_content">
@@ -19,8 +18,6 @@ function App() {
           <AboutUs/>
           </div>
           </div>
-
-      </div>
     </div>
   );
 }
