@@ -4,8 +4,11 @@ import About from './About';
 function App() {
   return (
     <div className="landing-page-container">
-      <p className="landing-page-description">Welcome to my App!</p>
-      <h1>Welcome To Paradise Nursery</h1>
+      <h1>Welcome to My Digital Portfolio!</h1>
+      <div className = 'divider'></div>
+      <button className="get-started-button">
+            Get Started
+      </button>
 </div>
   );
 }
