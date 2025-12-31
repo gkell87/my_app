@@ -1,4 +1,5 @@
 import './App.css';
+import About from './About';
 
 function App() {
   return (
@@ -7,7 +8,6 @@ function App() {
       <p className="landing-page-content">place holder.</p>
       <p className="landing-page-content">place holder.</p>
       <p className="landing-page-content">place holder.</p>
-      <div className="background-image"></div>
 </div>
   );
 }
