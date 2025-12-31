@@ -6,6 +6,7 @@ function App() {
     <div className="landing-page-container">
       <div className="background-image"></div>
       <div className="content"></div>
+       <div className="landing_content"></div>
        <h1>Welcome to My Digital Portfolio!</h1>
       <div className = 'divider'></div>
       <button className="get-started-button">
